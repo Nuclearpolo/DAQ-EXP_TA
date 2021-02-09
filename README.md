@@ -44,7 +44,7 @@ It's cool, I understand.
 
 ![](2021-02-09-16-00-53.png)
 
-## 6.1 When I installed the VPN, it shouted at me saying I was running processes it needed dead. Those are given an ID and can be found in the "services" section of "Task Manager" on windows. I don't own a MAC but I imagine its similar. 
+## 6.1 When I installed the VPN, it shouted at me saying I was running processes it needed dead. Those are given an ID and can be found in the "services" section of "Task Manager" on windows. I don't own a MAC but I imagine its similar, I own linux but I can't remember how it works on there. 
 
 ![](2021-02-09-16-15-18.png)
 
