@@ -4,7 +4,7 @@ Gumpf for TA
 # LabVIEW instillation guide
 
 
-Hi
+Hi.
 Labview has been abit of 
 a pain so I've put together this 
 guide to go with the video I will 
@@ -52,7 +52,7 @@ It's cool, I understand.
 
 ![](2021-02-09-16-37-04.png)
 
-## 7. Once that's all dandy, head on back to our AI overlord google and slam in a request for "Labview 2020 student". Hit the top link.
+## 7. Once that's all dandy, head on back to our AI overlord google and slam in a request for "Labview 2020 student". Hit the top link. You will need to login at somepoint here, or make an account. MAKE IT WITH YOUR STUDENT ACCOUNT. Its not a big deal but it just saves faff if it turns out _to be_ a big deal, you know how fiddly computers can be.
 
 ![](2021-02-09-16-01-46.png)
 
