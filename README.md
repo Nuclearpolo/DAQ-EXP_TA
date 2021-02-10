@@ -60,7 +60,7 @@ It's cool, I understand.
 
 ![](2021-02-09-16-02-26.png)
 
-## 7.1 Choose the bit rate of your machine and hit download. 
+## 7.1 Choose the bit of your machine and hit download. 
 
 ![](2021-02-09-16-02-45.png)
 
