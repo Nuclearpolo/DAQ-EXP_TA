@@ -19,6 +19,8 @@ If you'd rather skip the vpn part and go
 straight to 7, you can follow that through to install.
 It's cool, I understand. 
 
+## NOTE: Known issues I'm still trying to figure out are at the bottom. If you suffer these, please post in the discussion forum.
+
 ## 1. So for my VPN gang, bang in "University of Manchester IT" into your search engine of choice.
 
 
@@ -72,7 +74,7 @@ It's cool, I understand.
 
 ![](2021-02-09-16-19-28.png)
 
-## Those that worked (Apologies for the backdated versions, been using LV a while):
+## 8.1 Those that worked (Apologies for the backdated versions, been using LV a while):
 
 ![](2021-02-09-15-50-26.png)
 
@@ -99,3 +101,9 @@ It's cool, I understand.
 ![](2021-02-09-16-31-45.png)
 
 ## 13. With the universes favour, you will be granted your wish: a fresh and shiny new Labview install to suffer on for this unit, you're welcome. I hope this helped people out and you all got it working. If you have issues, I'm keeping an eye on the discussion board to feel free to post and we can see what's what. Big Love and see you all in the labs!
+
+# Known Issues 
+
+## The serial number is invalid even on those ticked in 8.1. NI says this may be a licensing file. If you want to play with that, go ahead, requires contacting them apparently, though I will try see what I can find. 
+
+![](2021-02-10-21-50-24.png)
