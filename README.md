@@ -104,6 +104,6 @@ It's cool, I understand.
 
 # Known Issues 
 
-## The serial number is invalid even on those ticked in 8.1. NI says this may be a licensing file. If you want to play with that, go ahead, requires contacting them apparently, though I will try see what I can find. 
+## The serial number is invalid even on those ticked in 8.1. NI says this may be a licensing file. If you want to play with that, go ahead, requires contacting them apparently, though I will try see what I can find. Update: Fault report has gone to IT. I will keep this updated with what comes back.
 
 ![](2021-02-10-21-50-24.png)
