@@ -20,6 +20,7 @@ straight to 7, you can follow that through to install.
 It's cool, I understand. 
 
 ## NOTE: Known issues I'm still trying to figure out are at the bottom. If you suffer these, please post in the discussion forum.
+## NOTE: It was pointed out by a fellow TA that it may be an issues with using the 64-Bit, as the instillation guide on the IT website explicitly states 32-bit.
 
 ## 1. So for my VPN gang, bang in "University of Manchester IT" into your search engine of choice.
 
