@@ -123,6 +123,6 @@ It's cool, I understand.
 For some local downloads are being a pain. I feel sympathy, nothing worse than software buggering up for no reason. What can be don e as a workaround is tuning into a pc in uni via citrix. Will need to be an engineering building cluster. I've put the resources here:
 
 - [Citrix login](https://manchester.cloud.com/Citrix/StoreWeb/#/login)
-- [Download Link from IT](documents.manchester.ac.uk/display.aspx?DocID=51611)
+- [Download guide from IT](documents.manchester.ac.uk/display.aspx?DocID=51611)
 
 Hope this helps guys. 
