@@ -9,6 +9,9 @@ Labview has been abit of
 a pain so I've put together this 
 guide to go with the video I will 
 do later. 
+
+> If you are finding trouble with the local install, the bottom of this guide now features a guide of how to remotely access a PC in George Begg or other. You can use labview there. 
+
 First thing that needs doing is 
 smashing open a google window. I 
 am using firefox here but I doubt there will 
@@ -105,6 +108,15 @@ It's cool, I understand.
 
 # Known Issues 
 
-## The serial number is invalid even on those ticked in 8.1. NI says this may be a licensing file. If you want to play with that, go ahead, requires contacting them apparently, though I will try see what I can find. Update: Fault report has gone to IT. I will keep this updated with what comes back.
+## The serial number is invalid even on those ticked in 8.1. NI says this may be a licensing file. If you want to play with that, go ahead, requires contacting them apparently, though I will try see what I can find. Update: Fault report has gone to IT. I will keep this updated with what comes back. Update: We have delegated this issue to IT. As yet no reply. If you find this issue I recommend accessing a pc in uni with the citrix method below
 
 ![](2021-02-10-21-50-24.png)
+
+# Remote Access 
+
+For some local downloads are being a pain. I feel sympathy, nothing worse than software buggering up for no reason. What can be don e as a workaround is tuning into a pc in uni via citrix. I've put the resources here:
+
+- [Citrix login]{https://manchester.cloud.com/Citrix/StoreWeb/#/login}
+- [Download Link from IT]{documents.manchester.ac.uk/display.aspx?DocID=51611}
+
+Hope this helps guys. 
