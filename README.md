@@ -7,7 +7,7 @@ Gumpf for TA
 > - [VPN Install](https://github.com/Nuclearpolo/DAQ-EXP_TA#1-so-for-my-vpn-gang-bang-in-university-of-manchester-it-into-your-search-engine-of-choice)
 > - [Labview Install](https://github.com/Nuclearpolo/DAQ-EXP_TA#7-once-thats-all-dandy-head-on-back-to-our-ai-overlord-google-and-slam-in-a-request-for-labview-2020-student-hit-the-top-link-you-will-need-to-login-at-somepoint-here-or-make-an-account-make-it-with-your-student-account-its-not-a-big-deal-but-it-just-saves-faff-if-it-turns-out-to-be-a-big-deal-you-know-how-fiddly-computers-can-be)
 > - [Serial Number (Possibly fucked, see known issues)](https://github.com/Nuclearpolo/DAQ-EXP_TA#known-issues)
-> - [New jammy acitvation method]
+> - [New jammy acitvation method](https://github.com/Nuclearpolo/DAQ-EXP_TA#new-jammy-activation)
 > - [Know Issues](https://github.com/Nuclearpolo/DAQ-EXP_TA#known-issues)
 > - [Remote Access Resources](https://github.com/Nuclearpolo/DAQ-EXP_TA/blob/main/README.md#remote-access)
 
