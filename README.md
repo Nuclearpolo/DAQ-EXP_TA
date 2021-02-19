@@ -7,6 +7,7 @@ Gumpf for TA
 > - [VPN Install](https://github.com/Nuclearpolo/DAQ-EXP_TA#1-so-for-my-vpn-gang-bang-in-university-of-manchester-it-into-your-search-engine-of-choice)
 > - [Labview Install](https://github.com/Nuclearpolo/DAQ-EXP_TA#7-once-thats-all-dandy-head-on-back-to-our-ai-overlord-google-and-slam-in-a-request-for-labview-2020-student-hit-the-top-link-you-will-need-to-login-at-somepoint-here-or-make-an-account-make-it-with-your-student-account-its-not-a-big-deal-but-it-just-saves-faff-if-it-turns-out-to-be-a-big-deal-you-know-how-fiddly-computers-can-be)
 > - [Serial Number (Possibly fucked, see known issues)](https://github.com/Nuclearpolo/DAQ-EXP_TA#known-issues)
+> - [New jammy acitvation method]
 > - [Know Issues](https://github.com/Nuclearpolo/DAQ-EXP_TA#known-issues)
 > - [Remote Access Resources](https://github.com/Nuclearpolo/DAQ-EXP_TA/blob/main/README.md#remote-access)
 
@@ -111,6 +112,11 @@ It's cool, I understand.
 ![](2021-02-09-16-31-45.png)
 
 ## 13. With the universes favour, you will be granted your wish: a fresh and shiny new Labview install to suffer on for this unit, you're welcome. I hope this helped people out and you all got it working. If you have issues, I'm keeping an eye on the discussion board to feel free to post and we can see what's what. Big Love and see you all in the labs!
+
+# New Jammy Activation
+
+According to another TA Tom, there is a workaround to activating Labview. Using this link:
+[Labview activation code generation w/ serial number](https://www.ni.com/nilg-activate/jsp/customer_activate_details.jsp) If students are still having issues activating labview then this will generate an activation code from the student serial number. Tom tried it and there was no issue. You just have to disconnect from the internet when you open up licence manager to force it to ask you for the activation code.
 
 # Known Issues 
 
