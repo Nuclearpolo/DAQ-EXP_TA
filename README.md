@@ -4,11 +4,11 @@ Gumpf for TA
 # LabVIEW instillation guide
 
 > Contents
-> - [VPN Install]{https://github.com/Nuclearpolo/DAQ-EXP_TA#1-so-for-my-vpn-gang-bang-in-university-of-manchester-it-into-your-search-engine-of-choice}
-> - [Labview Install]{https://github.com/Nuclearpolo/DAQ-EXP_TA#7-once-thats-all-dandy-head-on-back-to-our-ai-overlord-google-and-slam-in-a-request-for-labview-2020-student-hit-the-top-link-you-will-need-to-login-at-somepoint-here-or-make-an-account-make-it-with-your-student-account-its-not-a-big-deal-but-it-just-saves-faff-if-it-turns-out-to-be-a-big-deal-you-know-how-fiddly-computers-can-be}
-> - [Serial Number (Possibly fucked, see known issues)]{https://github.com/Nuclearpolo/DAQ-EXP_TA#known-issues}
-> - [Know Issues]{https://github.com/Nuclearpolo/DAQ-EXP_TA#known-issues}
-> - [Remote Access Resources]{https://github.com/Nuclearpolo/DAQ-EXP_TA/blob/main/README.md#remote-access}
+> - [VPN Install](https://github.com/Nuclearpolo/DAQ-EXP_TA#1-so-for-my-vpn-gang-bang-in-university-of-manchester-it-into-your-search-engine-of-choice)
+> - [Labview Install](https://github.com/Nuclearpolo/DAQ-EXP_TA#7-once-thats-all-dandy-head-on-back-to-our-ai-overlord-google-and-slam-in-a-request-for-labview-2020-student-hit-the-top-link-you-will-need-to-login-at-somepoint-here-or-make-an-account-make-it-with-your-student-account-its-not-a-big-deal-but-it-just-saves-faff-if-it-turns-out-to-be-a-big-deal-you-know-how-fiddly-computers-can-be)
+> - [Serial Number (Possibly fucked, see known issues)](https://github.com/Nuclearpolo/DAQ-EXP_TA#known-issues)
+> - [Know Issues](https://github.com/Nuclearpolo/DAQ-EXP_TA#known-issues)
+> - [Remote Access Resources](https://github.com/Nuclearpolo/DAQ-EXP_TA/blob/main/README.md#remote-access)
 
 Hi.
 Labview has been abit of 
@@ -122,7 +122,7 @@ It's cool, I understand.
 
 For some local downloads are being a pain. I feel sympathy, nothing worse than software buggering up for no reason. What can be don e as a workaround is tuning into a pc in uni via citrix. I've put the resources here:
 
-- [Citrix login]{https://manchester.cloud.com/Citrix/StoreWeb/#/login}
-- [Download Link from IT]{documents.manchester.ac.uk/display.aspx?DocID=51611}
+- [Citrix login](https://manchester.cloud.com/Citrix/StoreWeb/#/login)
+- [Download Link from IT](documents.manchester.ac.uk/display.aspx?DocID=51611)
 
 Hope this helps guys. 
